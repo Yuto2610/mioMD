@@ -14,32 +14,32 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6281997496643'] //ur owner number
-global.ownername = "𝗔𝗻𝗴𝗴𝗮𝗫𝘆𝘇𝘇" //ur owner name
-global.developer = "𝗔𝗻𝗴𝗴𝗮𝗫𝘆𝘇𝘇" //nama lu
-global.ytname = "YT: 𝗔𝗻𝗴𝗴𝗮𝗫𝘆𝘇𝘇" //ur yt chanel name
-global.socialm = "https://github.com/AnggaXyzZ" //ur github or insta name
-global.sgc = "https://chat.whatsapp.com/E3l5YxNNUx89ecCRpOoOtO"
-global.location = "Banten" //ur location
+global.vcardowner = ['628970706704'] //ur owner number
+global.ownername = "Iman" //ur owner name
+global.developer = "Iman" //nama lu
+global.ytname = "YT: -" //ur yt chanel name
+global.socialm = "-" //ur github or insta name
+global.sgc = "-"
+global.location = "Jepang" //ur location
 
 //bot bomdy 
-global.owner = ['6281997496643'] //ur number
-global.ownernomer = "6281997496643" //ur number
-global.ownertag = '6281997496643' //ur tag number
-global.premium = ['6281997496643'] //ur premium number
-global.botname = '𝗔𝗻𝗴𝗴𝗮𝗕𝗼𝘁𝘇' //ur bot name
-global.ownername = "𝗔𝗻𝗴𝗴𝗮𝗫𝘆𝘇𝘇"
-global.linkz = "https://youtube.com/@AnggaXyzz" //your theme url which will be displayed on whatsapp
-global.dana = "6281997496643"
-global.gopay = "6281997496643"
-global.pulsa = "6281997496643"
-global.websitex = "https://youtube.com/@AnggaXyzz" //ur website to be displayed
-global.websitex1 = "https://youtube.com/shorts/N6cPd_V-IME?feature=share"
+global.owner = ['628970706704'] //ur number
+global.ownernomer = "628970706704" //ur number
+global.ownertag = '628970706704' //ur tag number
+global.premium = ['628970706704'] //ur premium number
+global.botname = 'Noar Bot' //ur bot name
+global.ownername = "Iman"
+global.linkz = "-" //your theme url which will be displayed on whatsapp
+global.dana = "08970706704"
+global.gopay = "-"
+global.pulsa = "-"
+global.websitex = "-" //ur website to be displayed
+global.websitex1 = "-"
 global.botscript = 'https://github.com/AnggaXyzZ' //script link
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "𝗔𝗻𝗴𝗴𝗮𝗕𝗼𝘁𝘇" //ur sticker watermark author
-global.wm = "𝗔𝗻𝗴𝗴𝗮𝗫𝘆𝘇𝘇" //ur watermark
+global.author = "Noar" //ur sticker watermark author
+global.wm = "Iman" //ur watermark
 
 // Other
 global.sessionName = 'Session'
